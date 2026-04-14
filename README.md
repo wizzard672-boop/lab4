@@ -13,6 +13,7 @@
 ### 1. Реализация замыкания (`prime_generator`)
 
 Создана внешняя функция prime_generator, которая содержит список primes и переменную current. Внутренняя функция get_next_prime использует nonlocal current для изменения состояния внешней функции. Алгоритм проверки на простоту использует уже найденные простые числа для сокращения количества делений.
+
 <img width="203" height="189" alt="image" src="https://github.com/user-attachments/assets/6bdb09e3-1958-45cf-98eb-56061f7cc5dd" />
 
 
