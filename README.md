@@ -39,12 +39,6 @@
 <img width="1434" height="148" alt="image" src="https://github.com/user-attachments/assets/cc18bd66-322a-4eae-99af-3a9cf48d175c" />
 
 
-_На скриншоте видно:_
-
-1.  Успешную генерацию первых 16 простых чисел.
-2.  Вывод сообщения об искусственной задержке.
-3.  Выброс исключения `TimeoutError` при попытке получить 17-е число, так как время выполнения превысило 1 секунду.
-
 ## Ссылки на используемые материалы
 
 1.  **Python Documentation: Closures** - [https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces](https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces)
